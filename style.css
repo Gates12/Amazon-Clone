@@ -269,11 +269,11 @@ footer {
     font-weight: 600;
 }
 
-.lovde {
+.lovd {
     border: 2px solid transparent;
 }
 
-.lovde:hover {
+.lovd:hover {
     border: 2px solid;
     background-color:#007185;
 }
