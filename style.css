@@ -269,6 +269,15 @@ footer {
     font-weight: 600;
 }
 
+.lovde {
+    border: 2px solid transparent;
+}
+
+.lovde:hover {
+    border: 2px solid;
+    background-color:#007185;
+}
+
 .foot-panel2 {
     background-color: #222f3d;
     color: white;
